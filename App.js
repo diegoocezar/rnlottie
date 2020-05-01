@@ -26,7 +26,7 @@ export default function App() {
     <View
       style={{
         flex: 1,
-        marginTop: width / 2,
+        marginTop: height / 4,
         width: width,
         justifyContent: 'center',
         alignItems: 'center',
